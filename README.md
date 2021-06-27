@@ -1,4 +1,5 @@
 ---
+hello from Ubuntu
 page_type: sample
 languages:
 - python
