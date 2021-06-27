@@ -5,7 +5,7 @@
 		"annotations": [],
 		"type": "AzureDatabricks",
 		"typeProperties": {
-			"domain": "https://australiaeast.azuredatabricks.net",
+			"domain": "https://adb-6750081366361125.5.azuredatabricks.net",
 			"accessToken": {
 				"type": "AzureKeyVaultSecret",
 				"store": {
