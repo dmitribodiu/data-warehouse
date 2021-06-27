@@ -158,7 +158,9 @@
 							"sink": {
 								"type": "AzureBlobFSSink"
 							},
-							"enableStaging": false
+							"enableStaging": false,
+							"parallelCopies": 1,
+							"dataIntegrationUnits": 2
 						},
 						"inputs": [
 							{
@@ -212,7 +214,9 @@
 							"sink": {
 								"type": "AzureBlobFSSink"
 							},
-							"enableStaging": false
+							"enableStaging": false,
+							"parallelCopies": 1,
+							"dataIntegrationUnits": 2
 						},
 						"inputs": [
 							{
